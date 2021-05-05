@@ -1,6 +1,7 @@
 # PS10-Problem-00: Tip Calculator App
  
-Author: Alexandra Yu \n
+Author: Alexandra Yu
+
 The same thing as in the lecture video, no additional libraries.
 
 ![image](https://user-images.githubusercontent.com/75063827/117184008-0dce8680-adfa-11eb-82e7-e2065ac7644d.png)
